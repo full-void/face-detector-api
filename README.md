@@ -1,5 +1,5 @@
 # Face Detector and Scorer Backend API
-A project based on the Zero to Mastery Udemy course. The app provides security, login and signup feature, detect faces, and score them using machine learning.
+A project based on the Zero to Mastery Udemy course. The app provides security, login and signup feature, detect faces, and finding faces using machine learning.
 
 ## Installation
 1. Clone this repo
